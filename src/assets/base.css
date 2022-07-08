@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+html, body, #app {
+  width: 100vw;
+  height: 100vh;
+}
+
+#app {
+  padding: 1rem;
+}
+
+.full-width {
+  width: 100%;
+}
